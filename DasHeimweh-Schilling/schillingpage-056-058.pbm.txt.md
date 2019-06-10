@@ -1,47 +1,46 @@
-55
+<a name="35"></a>
 
-Unser Herr bat auf deinem. ganzen Wege keinerHäiid breit
-Eigenthnm, keine Domänen2odet Lehngüier, womit er die
+Unser Herr hat auf deinem ganzen Wege keiner Hand breit
+Eigenthum, keine Domänen oder Lehngüter, womit er die
 Ritter des heiligen Kreuzes belehnen kann. Du hast nirgend
-eine bleibende Stätte-— wenn du aber als Held nnd Sieger
-nach Hand kommst, dann wirst du int Vaterlande über Vie-
-les gesetzt werden.
+eine bleibende Stätte, wenn du aber als Held und Sieger
+nach Haus kommst, dann wirst du ins Vaterlande über Vieles 
+gesetzt werden.
 
-Jeder Mensch hat einen Grundtrieb , dem alle andere nn-
-tergeordnet sind; der gewöhnlichste ist: die Sucht, Schätze
-zu sammelt-. Mache du es nicht so, sondern wenn du wahr-
-haft reich werden willst, so.briiige deine Kapitalien ins-Va-
-terlande unter, da s nd dir die Hypotheken sicher. Auf dei-
-ner Reise wirst du ans jeden Fall durch Koiikiirse leises nnd
-selber am Ende bankerott werden. .
+Jeder Mensch hat einen Grundtrieb, dem alle andere untergeordnet 
+sind; der gewöhnlichste ist: die Sucht, Schätze
+zu sammeln. Mache du es nicht so, sondern wenn du wahrhaft 
+reich werden willst, so bringe deine Kapitalien ins Vaterlande 
+unter, da sind dir die Hypotheken sicher. Auf deiner 
+Reise wirst du auf jeden Fall durch Konkurse leiden und
+selber am Ende bankerott werden.
 
-Ich. Lieber, bester Vetters woinit kann ich wachem-da
+Ich. Lieber, bester Vater! womit kann ich wuchern, da
 ich ja nicht das geringste Vermögen habe?
 
-V ater. Auf jeder Reisestation wirst du Wechsel sinden;
-je besser du nun Haue hälrst, und je klüger du das Geld an-
-wendest, desto mehr wird dir angewiesen.
+Vater. Auf jeder Reisestation wirst du Wechsel finden;
+je besser du nun Haus hälst, und je klüger du das Geld anwendest, 
+desto mehr wird dir angewiesen.
 
-Wenn dir Gefahren drohen, die du dir nicht selbst zugezo-
-gen hast, so gib wohl auf den Wink der Vorsehung Acht;
-besiehlt sie dir, eine Arche’ zu bauen, so« baue fleißig,2 gehe
-aber nicht hinein, bis sie es nöthig siiidet, dann wird sie selbst
-hinter dir zuschließen, und du wirst wohl verwahrt sehne
-Nimm auch nicht zu viel nnreine Thiere init hinein. lind
-wenn-du endlich kundschaften willst, ob es bald sichetbrans L
-ßen sen-. so schicke nur keinen Raben-· der bleibt eins allen
-Aesern sitzen; sondern eine Tande’, die wird das Oelblntt des
-Friedens bringen, nnd dann warte-— bis der Ansgang befoh-
-len wird.
+Wenn dir Gefahren drohen, die du dir nicht selbst zugezogen 
+hast, so gib wohl auf den Wink der Vorsehung Acht;
+befiehlt sie dir, eine Arche zu bauen, so baue fleißig, gehe
+aber nicht hinein, bis sie es nöthig findet, dann wird sie selbst
+hinter dir zuschließen, und du wirst wohl verwahrt seyn.
+Nimm auch nicht zu viel unreine Thiere mit hinein. Und
+wenn du endlich kundschaften willst, ob es bald sicher draußen 
+sey, so schicke nur keinen Raben, der bleibt auf allen
+Uefern sitzen; sondern eine Taube, die wird das Oelblatt des
+Friedens bringen, und dann warte, bis der Ausgang befohlen 
+wird.
 
-Sollrest du einmal Mangel haben, nnd in die Lage kom-
-men, daß du in Egdpten Brod suchen wüßtest,: so löngne
-ja nicht- daß die Wahrheit dein Weib sen; dnlde lieber
-Verfolgung uni ihretwillen:’ denn nicht jeder- Pharao ist
-so ehrlich, daß et sie dir wieder gibts Der Gott, der dir,
+Solltest du einmal Mangel haben, und in die Lage kommen, 
+daß du in Egypten Brod suchen müßtest, so läugne
+ja nicht, daß die Wahrheit dein Weib sey; dulde lieber
+Verfolgung um ihretwillen: denn nicht jeder Pharao ist
+so ehrlich, daß er sie dir wieder gibt. Der Gott, der dir
 versprochen hat, dich durch sie zum Beispiel des Segens
-nnd zum Stamrnsürsten eines großen Volks zu frischem der
+und zum Stammfürsten eines großen Volks zu machen, der
+wird sie dir nicht rauben lassen.
 
-wird sie dir nicht rauben lassen. «
-z
 

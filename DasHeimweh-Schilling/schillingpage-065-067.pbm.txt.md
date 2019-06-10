@@ -1,8 +1,8 @@
--56
+<a name="36"></a>
 
-Wenn du einen entdeckest, der im Verborgenen dem Hung-
-rigen Brod-gibt, den Nackenden kleidet, den Fremdling be-
-herbergt, den Kranken erquickt, den Gefangenen trbstet,
+Wenn du einen entdeckest, der im Verborgenen dem Hungrigen 
+Brod gibt, den Nackenden kleidet, den Fremdling beherbergt, 
+den Kranken erquickt, den Gefangenen tröstet,
 und sich mit der That für den Kleinsten im Himmelreich
 hält, dem gib die Bruderhand, feine Uuiform mag aus-
 sehen, wie sie will. Wer nach der .Unisorm urtheilt, der
