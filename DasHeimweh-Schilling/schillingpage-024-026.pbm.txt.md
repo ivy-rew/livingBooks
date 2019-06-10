@@ -11,38 +11,36 @@ Geschäfts von ihm erinnern, und ich erinnerte mich doch damals
 schon dessen, was seit 14 Jahren bei uns vorgegangen
 war.
 
-Hast dns gehört? —- Gott seh nns gnädig nnd barm-
-herzig! — hast du nichts gehbrt? —"- mein Vater drehte sich
+Hast dus gehört? —- Gott sey uns gnädig und barmherzig!
+— hast du nichts gehört? — mein Vater drehte sich
 am Pult herum, steckte die Feder hinter das Ohr, legte
-die Hände auf dem Rücken zusammen, schritte langsam mir ent- «
-gegen, nnd sagte:..Christian! .geh doch einmal hinans nnd
-frage die Weibslente, die da beisammen stehen, warum
-ihnen Gott gnädig nnd barmherzig sehn soll? «
+die Hände auf dem Rücken zusammen, schritte langsam mir entgegen,
+und sagte: Christian! geh doch einmal hinaus und
+frage die Weibsleute, die da beisammen stehen, warum
+ihnen Gott gnädig und barmherzig sein soll?
 
-Hdr’ sie, Inngfran! was hat sie so wichtiges?-— ist ,-
+Hör sie, Jungfrau! was hat sie so wichtiges? — ist
+etwa ein Unglück passirt?
 
-etwa ein Unglück pafsirt?
+A. Ach Gott! — lieber Herr Ostenheim! — es ist
+etwas erschreckliches: gestern Abend um zehn Uhr sind zween
+Bürger von hier, der Herr \*\*\* und der Rathsherr \*\*\* dort
+über die Riedwiese her nach Haus gegangen, und da haben
+sie oben auf dem Felsen einen schneeweißen leibhaftigen Geist
+gesehen, der ist langsam hin und her gegangen, so, als wenn
+er spazierte; dann hat er als einmal gestanden- und in den
+Mond, dann als einmal hinter sich in das alte Schloß geguckt,
+es hat ihnen gedäucht, als hörten sie ihn seufzen. Ach du
+lieber Gott! wer mag das wohl seyn? — ich habe als an
+den seligen Herrn Bürgermeister \*\*\* gedacht, der ging oft
+da spazieren.
 
-A. Ach Gott! —- lieber Herr Ostenheitnl —- es ist
-etwas etsthrecklichese gestern Abend ntn zehn Uhr s nd zween.
-Bürger von hier, der Herr M und der Rathsherr »O dort
-über die Riedwiese her nach Hans gegangen, nnd da haben
-sie oben auf dem Felsen einen schneeweißen leibhaftigen Geist-
-geschen, der ist langsam hin und her gegangen, so, als wenn
-ekspaziertez dann hat er als einmal gestanden- nnd in den
-Mond, dann als einmalhinter sich en das alte Schloß geguckt, , ..
-es hat ihnen gedäucht, ais hörten sie ihn feufzen. Ach du«
-lieber Gott! mer mag das wohl sehn? —- ich habe als an«
-den seligen Herrn Bürgermeister M gedacht, der ging oft
-da fpazieren.
+B. Ja, der ists gewiß! — denn so fromm er war, so
+hatte er doch auch seine Raupen.
 
-B. Ia, der ists gewiß! —- denn so fromm er war, so
-harte et doch auch seine Raupen.
-
-Ich erzählte meinem Nater, was ich gehört hatte; er lä-
-chelte nicht darüber, -änßerte auch keinen Zweifel, sondern
-in der nämlichen Attitüde, die Feder hinter dem· Ohr, kam
-er mir entgegen, nnd fragte mit einem sehnlichen Blickes
-
-Hast du nichts bei dieser Sache zu ehun? «
+Ich erzählte meinem Vater, was ich gehört hatte; er lächelte
+nicht darüber, -äußerte auch keinen Zweifel, sondern
+in der nämlichen Attitüde, die Feder hinter dem Ohr, kam
+er mir entgegen, und fragte mit einem sehnlichen Blicke:
+Hast du nichts bei dieser Sache zu thun?
 

@@ -1,47 +1,49 @@
-15
+<a name="13"></a>
 
-Weiß denn meine Mutter noch nichts von dein Felfenmanne?
-Während dem Schreiben antwortete mein Vater: f e sieht
-gerade am Gldckchenl
-»So I« «-
+Weiß denn meine Mutter noch nichts von dem Felsenmanne?
+Während dem Schreiben antwortete mein Vater: sie steht
+gerade am Glöckchen!
+"So!" -
 
-Komm doch her, mein Sohn! und stelle dich zwifchen
-mich und deine Mutter ans Fenster. "
+---
+
+Komm doch her, mein Sohn! und stelle dich zwischen
+mich und deine Mutter ans Fenster.
 
 Da stand ich! — vor mir ein ländliches Gärtchen mit
-einer düstern Lanbe, dann eine Wiefe, in welcher ein Mit-
-telding zwifchen Bach und Fluß zick- zack sorteilte. Jenseits
+einer düstern Laube, dann eine Wiese, in welcher ein Mittelding
+zwischen Bach und Fluß zick- zack forteilte. Jenseits
 Aecker, weiter aufwärts Wald, rechts hinauf Wildniß, links
-hinab weites Thal mit einein buschigen Hügel vor dem blauen
-Gebirge. Ueber uns ein unbewdlkter Himmel! linker Hand-
-doch über dem Hügel, der Halbmond des ersten Viertels-
+hinab weites Thal mit einem buschigen Hügel vor dem blauen
+Gebirge. Ueber uns ein unbewölkter Himmel! linker Hand,
+hoch über dem Hügel, der Halbmond des ersten Viertels:
 die ganze Erde feierte in heiliger Herbststille den Vorabend
 ihres Sabbaths. Und nun das schräge, sanfte, matte Mond-
-licht ans dem Antlitz der sterbenden Natur! — mir wards
+licht auf dem Antlitz der sterbenden Natur! — mir wards
 wieder eng unter der Weste.
 
-Ehristian! —s ·
+Christian! —
 
-»Was besiehlst dii? Vaterl«
+"Was befiehlst du? Vater!"
 
-Sollte die Natur nicht auch das Heimweh ·habeu? .
+Sollte die Natur nicht auch das Heimweh haben?
 
-,,In so fern ich. ein Theilchen von der Natur bin, Ia!,-
+"In so fern ich. ein Theilchen von der Natur bin, Ja!"
 
-Ich vers chere dich, sie hat das Heimweh, und sie be-
-kommts jeden Herbst. ’
+Ich versichere dich, sie hat das Heimweh, und sie bekommts
+jeden Herbst.
 
-,,Freilich bekommt f e es — ! — Millionen ihrer Kin-
-,,der gehen dann nach Hans, und die zurückgebliebenen be-
-,,tranern sie. Das uatürlichste Tranerkleid ist doch wohl
-,,martgelb nnd Flor darüber.
+Freilich bekommt sie es — ! — Millionen ihrer Kinder
+gehen dann nach Haus, und die zurückgebliebenen betrauern
+sie. Das natürlichste Trauerkleid ist doch wohl
+mattgelb und Flor darüber.
 
-Setz’ noch hinzn, den reinen unbewölkten Himmel im
-Kopf, und das erste Mondsoiertel in den Augen. O Jüng-
-ling! — Jüngling! den reinen wachsenden Mond, der nie
+Setz’ noch hinzu, den reinen unbewölkten Himmel im
+Kopf, und das erste Mondsviertel in den Augen. O Jüngling!
+— Jüngling! den reinen wachsenden Mond, der nie
 wieder abnimmt. Diesen Abglanz der Herrlichkeit Gottes,
-diesen Leitstern in der Nacht dieses Etdeulebens, im Auge. —-
-Diesen körperlichen, so sanft ins Herz hinein glänzenden Be-
-weis der Wahrheit von Jesu Christo, verbreitet über
-die ganze Natur-. —
+diesen Leitstern in der Nacht dieses Erdenlebens, im Auge. —
+Diesen körperlichen, so sanft ins Herz hinein glänzenden Beweis
+der Wahrheit von Jesu Christo, verbreitet über
+die ganze Natur.
 
