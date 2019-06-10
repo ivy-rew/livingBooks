@@ -1,5 +1,6 @@
 #!/bin/bash
 txtBook=out/full.md
+rm -rf out
 mkdir out
 for text in `ls -v *.md`
 do
