@@ -1,50 +1,49 @@
-· , « . " " 26
-Sidße- erschüttert werden; endlich wird Alles entwurzelt,
-und dann steht abermal der Greuel der Verwüstung an hei-
-liger Stelle. Komm, laß nns von hinnen gehen! ,,Meine
+<a name="25"></a>
 
+Grössen erschüttert werden; endlich wird Alles entwurzelt,
+und dann steht abermal der Greuel der Verwüstung an heiliger 
+Stelle. Komm, laß uns von hinnen gehen! "Meine
 ganze Seele war erfüllt mit Schauder und Schrecken, und
-ich fühlte mein Heimweh stärken-«
+ich fühlte mein Heimweh stärker."
 
-N
+---
 
-Heilige Sabbathsi Feier am siebenten Tage, und sernsies
-Warten der Dinge-. die am Abend kommen sollenl —- Vater
+Heilige Sabbaths-Feier am siebenten Tage, und ernstes
+Warten der Dinge, die am Abend kommen sollen! — Vater
 und Mutter traten mit Sonnenaufgang herein. Den Tag
 wollen wir mit dir feiern, mein Sohn! fing meine Mutter
-an, es ist wohl der letzte-in’diesem Lande der Fremdling-
-ichait!— .
+an, es ist wohl der letzte in diesem Lande der Fremdlingschaft! — 
 
-Der ietzte? —- Mutter! — ich erschrack über diese Anrede.
+Der letzte? — Mutter! — ich erschrack über diese Anrede.
 
-Nun ja! setzte mein Vater hinzu, du hast ja das Heim-
-weh, willst du denn nicht nach Haue reifen?
+Nun ja! setzte mein Vater hinzu, du hast ja das Heimweh, 
+willst du denn nicht nach Haus reisen?
 
-»O in! aber bei der Nachhansreise kann ich hier bei
-Euch bleibeu.,, «
+"O ja! aber bei der Nachhausreise kann ich hier bei
+Euch bleiben."
 
-Reinl du mußt wirklich verreisen, eine große Reife
-machet-. ·
+Nein! du mußt wirklich verreisen, eine große Reise
+machen.
 
-Ich. Daß freut mich sehr, den Wunsch zu reifen half
+Ich. Daß freut mich sehr, den Wunsch zu reisen hab
 ich lange genährt.
 
-Der N. Kannst du mir nun auch eine philosophische
-Erklärung des Heimweh’s geben? ’
+Der V. Kannst du mir nun auch eine philosophische
+Erklärung des Heimweh’s geben?
 
-Ich. Ia lieber Vater! das Heimweh ist. das ewige
-Streben eines Dinges nach seinem Ursprung; alle Weltkdr-
-per haben eine Neigung, eine Schwerkraft, ein Heimweh »
-zur Sonue. Auch ich bin ein folcher Weltidrper, der nach
-der Sonne hineilt , und sich ihr ewig zu nähern gedenkt-
+Ich. Ja lieber Vater! das Heimweh ist. das ewige
+Streben eines Dinges nach seinem Ursprung; alle Weltkörper 
+haben eine Neigung, eine Schwerkraft, ein Heimweh
+zur Sonne. Auch ich bin ein solcher Weltkörper, der nach
+der Sonne hineilt, und sich ihr ewig zu nähern gedenkt,
 dieß ist auch mein Heimweh.
 
-Der Nr Deine Sonne, lieber Ehristian! ist vor der
+Der V. Deine Sonne, lieber Christian! ist vor der
 Hand im Orient: dort an der äußersten Gränze, wo die
-Lichtwelt über den unermeßlichen Ocean emporsteigt, ist dei-
-nes Vaters Wohnung, deine Heimath.
+Lichtwelt über den unermeßlichen Ocean emporsteigt, ist deines
+Vaters Wohnung, deine Heimath.
 
 Ich. Ich erinnere mich dunkel, daß wir hier nicht zu
-Hand sind; Ihr brachtet mich als Kind «hieher. Aber wer-
-det Ihr denn auch mitteifen? «
+Haus sind; Ihr brachtet mich als Kind hieher. Aber werdet
+Ihr denn auch mitreisen?
 

@@ -1,55 +1,54 @@
-16
+<a name="16"></a>
 
-zusammenschlrigem und eben so wenig kann ihm irgend eine
-Gefahr schaden. Du hast eine solche Notation — Klein-
-glänbiger! warum bist du so furchtsam! —- hab ich dich
+zusammenschlügen, und eben so wenig kann ihm irgend eine
+Gefahr schaden. Du hast eine solche Notation — Kleinglänbiger!
+warum bist du so furchtsam! — hab ich dich
 je getäuscht?
 
-Muth nnd Kraft drang mir wie ein elektrischer Schlag
-durch Mark und Bein. Nein, Vaters-— ,stark schritt ich
-durch das Pförtchen in der Mauer neben dem Thurm- mein
+Muth und Kraft drang mir wie ein elektrischer Schlag
+durch Mark und Bein. Nein, Vater! — stark schritt ich
+durch das Pförtchen in der Mauer neben dem Thurm, mein
 Vater folgte hinten nach.
 
-i
+---
 
- 
+Da stand er! — und ich stand, wie an den Boden geheftet,
+meine Zunge klebte am Gaumen, einige Schritte
+zurück stand mein Vater, den rund um abgeschlagenen Hut
+in die Augen gedrückt, er lehnte sich auf seinen Stab und
+sagte endlich mit durchdringender Stimme — Hamlet! —
+das elektrisirte mich aufs Neue.
 
-Da stand er! —- uud ich stand, wie an den Boden ge-
-heftet, meine Zunge klebte am Ganmen, einige Schritte
-. zurück stand mein Vater, den rund um abgeschlagenen Hut
-.in die Augen gedrückt, er lehnte sich-auf seinen Stab nnd
-sagte endlich mit durchdringender Stimme — Hamle2t! —- —
-das elektrisitte mich aufs Neue.
-
-Wer bist du, schauriger Mondwandler? —2Er nahte sich
+Wer bist du, schauriger Mondwandler? — Er nahte sich
 mir bis auf einige Schritte, ich aber blieb stehen.
-2 ,,Ich bin ein Gesandter der unsichtbaren Wein-« Seine
-Stimme war sanft hanchend, aber sehr hörbar, wie das
-Rauschen des'Windes. ·
 
-Wer hat dich gefandt?
+"Ich bin ein Gesandter der unsichtbaren Welt." Seine
+Stimme war sanft hauchend, aber sehr hörbar, wie das
+Rauschen des Windes.
 
-,,Der König des Lichts nnd der Wahrheit, der im
-Orient wohnt. «
+Wer hat dich gesandt?
 
-Du bist also ein Bürger des Lichtteichs und nicht des
-Reichs der Finsterniß? .
+"Der König des Lichts und der Wahrheit, der im
+Orient wohnt."
 
-,,Ich bin ein Diener nnd Gefandter dessen, der das Buch
-mit den sieben Siegeln geöffnet hat.,-
+Du bist also ein Bürger des Lichtreichs und nicht des
+Reichs der Finsterniß?
+
+"Ich bin ein Diener nnd Gesandter dessen, der das Buch
+mit den sieben Siegeln geöffnet hat."
 
 Kann das nicht auch ein böser Geist sagen?
 
-»Meine Aufträge werden mich rechtfertigen-· daß ich bin-
-,,was ich sage.
+"Meine Aufträge werden mich rechtfertigen, daß ich bin,
+was ich sage."
 
-Was hast du« für Anfträge?
+Was hast du für Anfträge?
 
-,,Denen, die das Heimweh haben, den Weg nach dem
-,,Naierland zu zeigen!
+"Denen; die das Heimweh haben, den Weg nach dem
+Vaterland zu zeigen!"
 
-Vaters —- was ist das? «
+Vater! —- was ist das?
 
-Das ist die erste Seene, Ehristian! sage ihm, daß
-du das Heimweh hättest und gern nach Hand möchtest.
+Das ist die erste Szene, Christian! sage ihm, daß
+du das Heimweh hättest und gern nach Haus möchtest.
 
