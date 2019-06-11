@@ -1,51 +1,51 @@
+<a name="37"></a>
+
 Herr! es ist doch apart kühl diesen Morgen.
 
-,,Frierst du, Han5?,,
+"Frierst du, Hans?"
 
 Nein, Herr! das eben nicht, aber nehmen Sie mirs
-nicht übel, wir reiten da schon eine Stuiide, ohne einen
+nicht übel, wir reiten da schon eine Stunde, ohne einen
 Ton zu hören, außer wenn sich die Pferde räuspern.
 
-»Da hast du Recht! -—. aber sehst dnl wenn man so
+"Da hast du Recht! — aber siehst du! wenn man so
 eben Abschied genommen hat, so ists einem nicht viel ums
-Sprechen zu thuii. «
+Sprechen zu thun."
 
-Er. Da geht mirs nun gerade ander6: es geht meiner—
-Seele wie vielen Leuten, die. immer etwas in der Hand
-haben müssen , nnd sollte es auch nur ein Strohhalm sehn; —
-behüte mich aber Gott! daß ich Sie nur mit einem Stroh- «
-halm vergleichen sollte. Ich meine nur so! —- da ich nun
-nrn Ihrentwillen meine Aeltern verlassen habe, so möchte
-ich mich nun auch recht gern an Sie anklaininern. « .
+Er. Da geht mirs nun gerade anders: es geht meiner
+Seele wie vielen Leuten, die immer etwas in der Hand
+haben müssen, und sollte es auch nur ein Strohhalm seyn; —
+behüte mich aber Gott! daß ich Sie nur mit einem Strohhalm 
+vergleichen sollte. Ich meine nur so! — da ich nun
+um Ihrentwillen meine Aeltern verlassen habe, so möchte
+ich mich nun auch recht gern an Sie anklammern.
 
-Ich. Rein doch da neben mich — hier ist meine Hand
-— nun klammere dich fest bis in Ewigkeit. , «
+Ich. Reite doch da neben mich — hier ist meine Hand
+— nun klammere dich fest bis in Ewigkeit.
 
-Er. Herr! daß treibt mir die Thränen in die Angen-
-ia! darauf können Sie sich verlassen, ehrlich währt ewig! —-
-
-Aber! ich kann schweigen, wie ein Steine darf ich wohl
+Er. Herr! daß treibt mir die Thränen in die Angen,
+ja! darauf können Sie sich verlassen, ehrlich währt ewig! —
+Aber! ich kann schweigen, wie ein Stein: darf ich wohl
 wissen, wo es hinaus geht?
 
-Ich. Immer da hinauü, wo die Sonne aufgeht.
+Ich. Immer da hinaus, wo die Sonne aufgeht.
 
-Er. Mit Erlaubniß, Herr! dahin, wo s e den Winter,
-oder wo sie den Sommer aufgeht? I
+Er. Mit Erlaubniß, Herr! dahin, wo sie den Winter,
+oder wo sie den Sommer aufgeht?
 
-Ich. So zwischen beiden hin. .
+Ich. So zwischen beiden hin.
 
 Er. Daß heißt, es geht auf den Frühlingsmorgen zu?
 
-Ich. Warum nicht auf den Herbstinorgen zu?
+Ich. Warum nicht auf den Herbstmorgen zu?
 
 Er. Laßt uns lieber den Frühlingsmorgen sagen, den
-haben wir doch nun am ersten zu erwarten. Der wacht
+haben wir doch nun am ersten zu erwarten. Der macht
 auch mehr Muth.
 
-Ich. Hano! wir reisen vor der Hand nach Frankfurt.
+Ich. Hans! wir reisen vor der Hand nach Frankfurt.
 
-Er. So! — nach Frankfurt! —- aber halten Sie! —-
-Sie reiten zu kurz. —- — -. —- «
-
-Sehen Siel - so! . ·
+Er. So! — nach Frankfurt! — aber halten Sie! —
+Sie reiten zu kurz. — — — —
+Sehen Sie! - so!
 

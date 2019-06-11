@@ -1,43 +1,46 @@
-Hirn o aber tu der Wirthästnde: denn es: hatte mir das Zell-
-eisen gebracht, die Pferde adgesnttelt nnd ihnen daß erste
--- Futter gegeben.
+<a name="40"></a>
 
-Lieber Herr! der Wirth fragt: ob sie an der tobt-.- ästion
+Hans aber in der Wirthsstube: denn er hatte mir das Felleisen 
+gebracht, die Pferde abgesattelt und ihnen daß erste
+Futter gegeben.
+
+Lieber Herr! der Wirth fragt: ob sie an der table d'hôte
 speisen wollen?
 
-Ia!
+Ja!
 
-Die Gefellfchaft war klein; ein.Kapitän, ein Kaufmann-
-ein Sekretär, ein ,Anonntnnß-, ein Landbeamter, ein Advo-
-kat, der Wirth-nnd ich.
+Die Gesellschaft war klein; ein Kapitän, ein Kaufmann,
+ein Sekretär, ein Anonnymuß, ein Landbeamter, ein Advo-
+kat, der Wirth und ich.
 
-Der Selretär, der Amtmann und der ,levoknt wehren
-dad-Tnch, ob wir Andern nun Blumen hinein brochiren woll-
-ren, das hing von nnd ab.l Ich meines Orts hatte keine
-Lust, denn der Stoff war nicht nach .meinem Gefchmack.
+Der Sekretär, der Amtmann und der Advokat webten
+das Tuch, ob wir Andern nun Blumen hinein brochiren wollten, 
+das hing von uns ab. Ich meines Orts hatte keine
+Lust, denn der Stoff war nicht nach meinem Geschmack.
 Vielleicht hätte doch mit der Zeit ein Wort das andere ge-
 bracht, wenn der Mann, der hinter der Thür ans einem
-Stuhl faß, nicht hinter der Thür auf dem Stuhl gefef-
-sen hätte-
-» Einlangerz hagerer,dnnkelgran, nach dem Kostüin des Mit-
-telstandes gekleideter, ältlicher Mann faß dort aufrecht an der
-Wand, ohne -sich zu2rühren; sein Gesicht, sein Blick und sein
-ganzes Dafeon war nicht zum Spaßmachen; wenn ich ihn ani-
-fahe, fo konnte ich meine. Augen nicht wohl wieder zum Tel-
-ler fbringen, nnd doch mußt’ ich oft hlnstarren’; den andern
-Tifchgeuosseie wurde er nicht eher merkwürdig, bis ihn der
-Wirth fragte: oh er nicht mitspeisen wollte? nnd er auf eine
-« Art Nein! sagte, die nicht jedermanns Ding war.
+Stuhl saß, nicht hinter der Thür auf dem Stuhl gesessen 
+hätte.
+
+Ein langer, hagerer, dunkelgrau, nach dem Kostüm des Mittelstandes 
+gekleideter, ältlicher Mann saß dort aufrecht an der
+Wand, ohne sich zu rühren; sein Gesicht, sein Blick und sein
+ganzes Daseyn war nicht zum Spaßmachen; wenn ich ihn ansahe, 
+so konnte ich meine. Augen nicht wohl wieder zum Teller 
+bringen, und doch mußt’ ich oft hinstarren; den andern
+Tischgenossen wurde er nicht eher merkwürdig, bis ihn der
+Wirth fragte: ob er nicht mitspeisen wollte? und er auf eine
+Art Nein! sagte, die nicht jedermanns Ding war.
 
 Einer blinzelte nach dem Andern nach dem grauen Manne
-hin: der Sekten-it aber helorgnirte ihn, der Advokat maß
-ihn mit den Angen- nnd der Amtmnnn machte ihm ein Amm-
-gesicht. Den Kapitän ging er nichts an, der Anonhmns
-fah nicht nach ihm ,: der Kaufmann fand bei der Sache kein
-Interesse, und der Wirth ärgern sich.
+hin: der Sekretär aber belorgnirte ihn, der Advokat maß
+ihn mit den Augen, und der Amtmann machte ihm ein Amtsgesicht. 
+Den Kapitän ging er nichts an, der Anonymus
+sah nicht nach ihm, der Kaufmann fand bei der Sache kein
+Interesse, und der Wirth ärgerte sich.
 
-Wieder eine Weile alltägliche Gefpräche und einfplbige
+Wieder eine Weile alltägliche Gespräche und einsylbige
 Wörter. Der Sektetär, als ein starker Geist (denn er war
 kurzsichtig) konnte endlich doch seine Fühlhörner nicht mehr
-zurückhalteu, sie bohrten vorwärtd, nur den grauen Mann
+zurückhalten, sie bohrten vorwärts, nur den grauen Mann
 
