@@ -1,54 +1,50 @@
-’5a
+<a name="53"></a>
 
-Kosten auf diesen großen Diamanten, sun- ihn nreisiekhaft zu
-schleifen nnd einzusassen. Sie wars werth, so viel zu leidet-.
-Kann ein achtzehniähriger Jüngling solche Senterizen sagen ?
-Liebster T heophill sie standen in meines Vaters Kate-
-chisntusz nnd biß dahin hatte ich nur gelernt sie zu ver-
-stehen, nnd wein ,Gewand mit diesen Blumen auszuschnnickern
+Kosten auf diesen großen Diamanten, um ihn meisterhaft zu
+schleifen und einzufassen. Sie war’s werth, so viel zu leiden,
 
-Ich hosse, zu seiner Zeit werden auch noch;Ips e Feeit’ü
+Kann ein achtzehnjähriger Jüngling solche Sentenzen sagen?
+Liebster Theophil! sie standen in meines Vaters Katechismus; 
+und bis dahin hatte ich nur gelernt sie zu verstehen,
+und mein Gewand mit diesen Blumen auszuschmücken.
+Ich hoffe, zu seiner Zeit werden auch noch Jpse Fecit's
+zum Vorschein kommen.
 
-zun- Vorschein kommen.
-Für dießnral setz’ ich wein Stab weiter,
+Für dießmal setz ich mein Stab weiter.
 
- 
+--- 
 
-Nein, Herr! --· sagte Haue, als ich ihn fragter, oh
-ihm die Zeitlang geworden wäre? —- Wer wird aber auch
+Nein, Herr! — sagte Hans, als ich ihn fragte: ob
+ihm die Zeit lang geworden wäre? — Wer wird aber auch
+einen Bedienten so fragen? — Lieber Freund! einem Heimewehkranken 
+kann man’s nicht übel nehmen, wenn er jede
+Kreatur so fragt: denn die Langeweile ist sein größter Feind,
+so lange er noch nicht zu Haus ist. Und wer den Hans
+Ehrlich zum Bedienten hat, was darf ihn der nicht fragen? 
+— Hans Ehrlich ist jedes ehrlichen Mannes Bruder.
 
-einen Bedienten so fragen? n----Lieber Freund! einem.Heim- - .
+Mein Herr! — (ein so recht ehrliches resolutes Wort,
+im resoluten Ton gesprochen). Ich habe keine Langeweile
+gehabt, da hab ich einem Juden und einem Christen zugehört, 
+und da hab ich gesehn, daß der Jude eigentlich ein 
+Christ, und der Christ ein Jude war.
 
-wehkranlen kann wand 2nicht übel nehmen, wenn er jede
-Kreatur so fragte denn die Langeweile ist sein größter Feind,
-so lange er noch nicht zu Haue. ist. Und wer den Hand
-Ehr-lich zum Bedienten hat, wae darf ihn der nicht fra-
-gen? — Ha ne Ehrl ich ist jedes ehrlichen Mannen Bruder-.
+"Das erzählst du mir auf dem Wege."
 
-Mein Herr-! — sein so recht ehrlichen resolute6 Wort,
-itn eesoluten Ton gesprochen). Ich habe keine Langeweile
-gehabt, da hab’ ich einem Juden und einem Christen zuge-
+Wir saßen auf, ritten quer durchs Feld, und waren nun in
+wenigen Minuten auf der Frankfurter Straße.
 
-hört, nnd da hah2 ich gesehn, daß der Inde eigentlich ein ’
+"Nun, Hans, erzähle mir deine Geschichte mit dem Juden 
+und dem Christen." Hans erzählte:
 
-Ehrist, nnd der Christ ein Inde war.
-
-»Das erzählst du mir auf dem kege.2i
-
-Wir saßen anf, ritten quer durchs Feld, und waren nun in
-wenigen Minuten auf der Frankfurter Straße-.
-
-»Nun, Hans, erzähle mir deine Geschichte mit dent Iu- ·
-
-den und dein Christ-ein« Hans erzählte:
-Lin-der Wirthsstube saß ein Mann bei einem Glas Brannt-
-wein ; indem kam ein Inde bot die Thür geritten, der stieg
-
-nun ab, und kaut auch in die Stube.2 Bald zog der Christ
-
+In der Wirthsstube saß ein Mann bei einem Glas Branntwein; 
+indem kam ein Jude vor die Thür geritten, der stieg
+nun ab, und kam auch in die Stube. Bald zog der Christ
 eine Uhr ans dem Sacke, reichte sie dem Juden hin und
-sagte: Ind! was gidst du mir für die uht? es ist Gold.
-Der Inde machte sie aus, desahe sie, und antwortete:
-»Ich tausch auf mai Pan-LE-
-Beide gingen hinaus- ich schlenderte hintennach- sie wur-
+sagte: Jud! was gibst du mir für die Uhr? es ist Gold.
+Der Jude machte sie aus, besahe sie, und antwortete:
+
+"Ich tausch auf mai Pfärd!"
+
+Beide gingen hinaus, ich schlenderte hintennach, sie wur-
 

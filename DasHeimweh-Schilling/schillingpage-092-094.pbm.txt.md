@@ -1,57 +1,55 @@
-65.
+<a name="55"></a>
 
-schwiad und bring ihn der Geroldin.2 Der Mann nahm
-feine Uhr und lief fort, der Wirth lobte den Indeu, und ich
-verwunderte wich: denn ich hatte gehört, daß die Geroldin
-eine sehr arme christliche Frau wäre. Nicht wahre lieber
-Herr. i das war hübsch von dem Inden? .
+schwind und bring ihn der Geroldin. Der Mann nahm
+seine Uhr und lief fort, der Wirth lobte den Juden, und ich
+verwunderte mich: denn ich hatte gehört, daß die Geroldin
+eine sehr arme christliche Frau wäre. Nicht wahr, lieber
+Herr! das war hübsch von dem Juden?
 
-Was ich antwortete, daß kann der Leier denken.
+Was ich antwortete, daß kann der Leser denken.
 
 Wir ritten über einen Hügel! und siehe da! dort unten
-trabte der Inde vor un- her. Flugs waren wir bei ihm.
+trabte der Jude vor uns her. Flugs waren wir bei ihm.
 Ein Wort brachte das andere; wir kamen auf den Handel
+mit der Uhr zu sprechen, ich fragte ihn, woher er die Wittwe
+Geroldin kenne?
 
-mit der Uhr zu sprechen-. ich fragte ihri- woher er die Wittwe
-Geroldiu kenne?
+"Gotts Wunner! ä Jud sollte verarmte Kaafleute nicht
+kenn! ich hab viel mit dem Gerold gehannelt. Gerold
+war ä braver Mann!"
 
-»Ganz Wnnner! ä Jud follte verarmte Kaafleute nicht
+Ich. Es freut mich, daß Ihr der armen Frau heut Morgen 
+einen Laubthaler geschenkt habt.
 
-kenn-! ich hab viel mit dem Gero ld gehannelt. Gerold
-war ä braver Marias-«
+Er. Ich bin vereist gewest, anderthalb Jahr, sonst wärs
+mit der armen Frau anners gange.
 
-Ich. Es freut mich, daß Ihr der armen Frau heut Mor-
-gen einen Laubthaler geschenkt habt.
+Ich. Wie so?
 
-Er. Ich bin vereint geme5t, anderthalb Jahr, fonst wär-
-mit der armen Fraa annere gange.
+Er. Na! — der Amtmann hat verfahre wie ä Hähde
+un ä Türk, wie die Aelteste mit der Susanne. Do bin
+ich un ä Daniel, ä Daniel! — jetzt will ich hin zur
+Commission, un den Amtmann helfe an den Galge bringe.
 
-Ich. Wie fo?
+Ich. Ja, wenn nur der armen Geroldin dadurch geholfen
+würde!
 
-Er. Na! — der Amttuauu hat ver-fahre wie ä Hähde
-un ä Türk , wie die Aelteste mit der Sufanne. Do bin
-ich nrr ä Daniel, ä Daniel! — jetzt will ich hin zur
-Eornrnifsion, un den Amtruann helfe an den Galge bringe.
+Er. Jau! ich hab’ Papier im Sack, kann ich nur ä
+gwisse Mann auf die Folter bringe, so wird sie ä reiche
+Frau.
 
-Ich. Ia, wenn nur der armen Geroldin dadurch ge- ·
-holfeu würdei . .
+Es kam heraus, daß dieser gewisse Mann Gerolds Mörder
+war; ich erzählte ihm, was ich wußte. Der Jude erstaunte, 
+kehrte seinen Gaul um, und sagte: Nun so geht's
+grad zur Commission.
 
-Er. Saul ich hab’ Papier im Sack , kann ich nur ä
-gwisse Mann auf die Folter bringe, fo wird se ä reiche «
-Frau
+Weh! Weh! Weh! dem Amtmann!
 
-Es kaut heraus, daß diefer gewisse Mann G erolds Mdr- «
-der war; ich erzählte ihm, maß ich wußte. Der Inde er-
-staunte, kehrte feinen Gaul mu- uud sagte: Nun fo gehs-
-grad’ zur Eornrnifsion. —
+Der Jude kam wieder zurück.
 
-Fehl Weh! Weh! dem Amtmauul
+"Hähßt der Herr nit Ostenheim?"
 
-Der Inde kaut wieder zurück.
+Ja!
 
-,,Hähßt der Herr uit 2Dsterrhei1rr?i,
-
-Ia I
-
-,,Habeie diefe Morge nie hundert Carlin iriegt- unneBrief?ii
+"Habese diese Morge nit hundert Carlin kriegt, unne Brief?"
 
