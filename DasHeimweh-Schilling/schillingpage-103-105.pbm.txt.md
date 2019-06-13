@@ -1,52 +1,52 @@
-’ii9
+<a name="58"></a>
 
-wählen, fo werden iene das gelobte Land besitzen. Nochtnalo
-Willkonrmen! lieber Eugeniuol auch du lässest die Lothß
+wählen, so werden jene das gelobte Land besitzen. Nochmals
+Willkommen! lieber Eugenius! auch du lässest die Lothß
 in Sodom wohnen, und weichest lieber aus.
 
 Ich Vater! du führest meines Vaters Sprache, du
-bist wohl auch unfer einer-? —- deine Sprache verrärh dichl-— «
+bist wohl auch unser einer? — deine Sprache verräth dich! —
 
-Der Alte. Thue, als wenn du zu Hand wärest! —-
-die Wolkenfäule, die dir den Weg zeigr, hat dich nichr2ohne
-Ursache tn meine Hütte geleitet. Unterhalte dich einstweilen
-mit meiner Tochter, ich gehe, um noch dieß und dao zu
-verrichten. .
+Der Alte. Thue, als wenn du zu Haus wärest! —
+die Wolkensäule, die dir den Weg zeigt, hat dich nicht ohne
+Ursache in meine Hütte geleitet. Unterhalte dich einstweilen
+mit meiner Tochter, ich gehe, um noch dieß und das zu
+verrichten.
 
-Sollte meine Mutter wohl wieder am.Glöckchen ziehen? —
-dachte ich; und mein Heimweh arbeitete zu einer wohlthäti-
-gen Erisi6, die auf Herzene-Ergießungen abzielre.
+Sollte meine Mutter wohl wieder am Glöckchen ziehen? —
+dachte ich; und mein Heimweh arbeitete zu einer wohlthätigen 
+Crisis, die auf Herzens-Ergießungen abzielte.
 
-Daß Mädchen fpann an der Wolle fort, als wenn ich gar
+Daß Mädchen spann an der Wolle fort, als wenn ich gar
+nicht da gesessen hätte.
 
-nicht da gefessen hätte.
-’ Ich. Gutes Kindl· dein Vater fagre, ich follte mich mit
-idir unrerhalten; nun gehto mir aber, wie dem Seidenwurm-
+Ich. Gutes Kind! dein Vater sagte, ich sollte mich mit
+dir unterhalten; nun gehts mir aber, wie dem Seidenwurm,
 wenn ihn der Drang zum Spinnen ängstet, et kann nicht
 zum Anfang kommen.
 
-S te. Ich soll dich also in die Neiser setzen damit du au-
-heften kannst? —
+Sie. Ich soll dich also in die Reiser setzen damit du anheften 
+kannst? —
 
-Sie hörte auf zu. .fpinnen, ihre Antwort aber besdrderte
-meine Erisio gewaltig — ja versetzte ich: mein Heimweh
+Sie hörte auf zu spinnen, ihre Antwort aber beförderte
+meine Crisis gewaltig — ja versetzte ich: mein Heimweh
 reißt mich mit Gewalt zu dir hin.
 
-Sie. Da hat dein Heimweh auch ganz Recht; mein Va-
-ter nannte dich vorhin einen fanfrrnüthigen Abrahain —
-nun sage mir doch, lieber Eug e n in sl was machte den A bra-
-· baut zum grdstensManne des Alterthnmo?
+Sie. Da hat dein Heimweh auch ganz Recht; mein Vater 
+nannte dich vorhin einen sanftmüthigen Abraham —
+nun sage mir doch, lieber Eugenius! was machte den Abraham
+zum grösten Manne des Alterthums?
 
-Ich’ Eil fein Heldenglaube!
+Ich. Ei! sein Heldenglaube!
 
-Sie.x Du ’bast Rechts muß aber dieser A b raham nicht
-eine Seier haben? —- hat nicht der Glaube die Wahrheit
-zum Weibe ndthig?—
+Sie. Du hast Recht! muß aber dieser Abraham nicht
+eine Sarah haben? — hat nicht der Glaube die Wahrheit
+zum Weibe nöthig?
 
-Unbeschreiblicde Empfindungen bestürmren mich von allen
-Seiten, die Rede stockre, ich konnte kein Wort hervorbringen-
-« f e fuhr fort:
+unbeschreibliche Empfindungen bestürmten mich von allen
+Seiten, die Rede stockte, ich konnte kein Wort hervorbringen,
+Sie fuhr fort:
 
 Siehst du, mein Lieber! wenn sich der Glaube mit der
-egpptischen Magd, mit der Weltweisheit vermählt, so erzeugt
+egyptischen Magd, mit der Weltweisheit vermählt, so erzeugt
 

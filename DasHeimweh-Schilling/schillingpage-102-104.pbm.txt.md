@@ -1,53 +1,48 @@
 <a name="57"></a>
 
-Dahin, in diese Bauernhütte! da soll ich logirenl — wie
+Dahin, in diese Bauernhütte! da soll ich logiren! — wie
 ein feuriger Pfeil fuhr mir dieser Gedanke durch die Seele.
-Allein ich heilte den Streifschuß angenblicklich. Seelenwun-
-den können ohne Nereiternng und Narbe geheilt werden,
-wenn man nur gleich das rechte Mittel trifft. ·
+Allein ich heilte den Streifschuß augenblicklich. Seelenwunden 
+können ohne Vereiterung und Narbe geheilt werden,
+wenn man nur gleich das rechte Mittel trifft.
 
-Der Stolz ist der Stammvater der Sünde; sein Weib ist«
-
-die Schlangez ihr’Sohn ist der Neid, und der eMord ihr
-Eukel. Die Sünde ist eine Melusiue, ein schdnes Weib mit
-einem Drachenschweif; die Sinnlichkeit ist ihr Kammetmäd-
-chen nnd ihre Kupplerin, wer mit dieser buhlt, dem lagert
+Der Stolz ist der Stammvater der Sünde; sein Weib ist
+die Schlange; ihr Sohn ist der Neid, und der Mord ihr
+Enkel. Die Sünde ist eine Melusine, ein schönes Weib mit
+einem Drachenschweif; die Sinnlichkeit ist ihr Kammermädchen 
+und ihre Kupplerin, wer mit dieser buhlt, dem lagert
 sich jene vor die Thür, und ehe er sichs versieht, ist er ihr
-Srlave. Kämpfe bis aufs Blut, damit du dieses Otterngee
-züchten los wirstl von diesem Kräutchen hatte ich den Spi-
-titu- bei mir, ich nahm eine gute Dosib davon ein, und da-
-mit war ich wieder gesund. -
+Sklave. Kämpfe bis aufs Blut, damit du dieses Otterngezüchtes 
+los wirst! von diesem Kräutchen hatte ich den Spiritus 
+bei mir, ich nahm eine gute Dosis davon ein, und damit 
+war ich wieder gesund.
 
-Ich trat in eine ziemlich räumliche, sehr reinliche, niedrige-
-nnd mit kleinen, hochstehenden Feustern verseheue Bauern-
-stnbe. Bei dem großen viereckigen Ofen saß ein ältlicher
-Mann mit einem langen lastanienbraunen Bart (seine Farbe
-erkannte ich hernach erst beim Licht). « Aber bei dem Woll-
-
-Spinnrad mitten in der Stube saß ein Mädchen-von griechi- «
-
-scheut Wirth-, sehr bäurisch, aber sehr .reinlich und vorsichtig
+Ich trat in eine ziemlich räumliche, sehr reinliche, niedrige,
+und mit kleinen, hochstehenden Fenstern verseheue Bauernstube. 
+Bei dem großen viereckigen Ofen saß ein ältlicher
+Mann mit einem langen kastanienbraunen Bart (seine Farbe
+erkannte ich hernach erst beim Licht). Aber bei dem Woll-
+Spinnrad mitten in der Stube saß ein Mädchen von griechischem
+Wuchs, sehr bäurisch, aber sehr reinlich und vorsichtig
 gekleidet; ihr Gesicht war in Dämmerung gehüllt, aber ich
-abnete eine erhabene Schönheit. Es war eine Schweizerischs
+ahnete eine erhabene Schönheit. Es war eine Schweizerisch-
 Mennonitische Familie.
 
-Da saß ich —- ed war mir in allein Betracht wunderlich
-ums Herz-
+Da saß ich — es war mir in allein Betracht wunderlich
+ums Herz.
 
-Sen mir willkommen, Engeniuel redete mich der Alte «
-
+Sey mir willkommen, Eugenius! redete mich der Alte
 an; und mir auch! — sagte daß Mädchen.
 
 Dieser Willkomm durchstrahlte mich vom Scheitel bis in
-die Zehenspitzenz die Worte: und mir auch — hallten in den
+die Zehenspitzen; die Worte: und mir auch — hallten in den
 feinsten Nerven-Schwingungen noche eine Weile fort.
 
 Ich sehnte mich nach Licht, aber die Oel-Lampe erschien
 noch nicht.
 
-Der Alte. Selig sind die sanftmüthigen Abrahamd:
+Der Alte. Selig sind die sanftmüthigen Abrahams:
 denn sie lassen den sinnlichen Loths die Wahl, und wenn
-diese das seite, aber dem Gericht entgegenreisende Sod out.
+diese das fette, aber dem Gericht entgegenreisende Sodom
 
-« X
 
