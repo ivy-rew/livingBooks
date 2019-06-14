@@ -1,7 +1,7 @@
 # Erstes Buch
 
 Selig sind, die das Heimweh haben, denn sie
-sollen nach Haue kommen — sagte der Pfarrer, und
+sollen nach Haus kommen — sagte der Pfarrer, und
 als ich meinem Vater erzähte, so sahe er mich an, wie
 eine Mutter ihren achtzehnjährigen Sohn, wenn er mit
 Theilnahme ein hübsches Mädchen lobt. Und meine Mutter
