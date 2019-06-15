@@ -1,7 +1,7 @@
-71
+<a name="71"></a>
 
-Lenre, die die Welt beherrschen, sie aber auch zum allgemei-
-nen Gericht reif wachen.
+Leute, die die Welt beherrschen, sie aber auch zum allgemeinen 
+Gericht reif wachen.
 
 Noah bestand in der Wasserprobe: denn Gott lehrte ihn
 fchminnnen; aber welcher Noah wird in der Fenerprobe be-

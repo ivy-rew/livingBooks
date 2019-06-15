@@ -1,42 +1,43 @@
-Das zweite Buch.
-O. e
+<a name="66"></a>
+#Das zweite Buch.
 
-Frankfurt am Maler war meine erste Station, Angs-
-burg die zweite. Bis Frankfurt gings nun so in einem2,
-ohne-Aufenthalt, fort. Hans fragte auch wenig, folglich
-hatten wir Beide Gelegenheit gehabt, uns im Stillschwei-
-gen zu üben, das hat aber auch seinen Nutzen, denn. man
-denkt desto mehr. Bei der Friedberger Watte aber konnte
-,H and Ehr lich doch nicht mehr an sich halten: denn als
+---
+
+Frankfurt am Main war meine erste Station, Augsburg 
+die zweite. Bis Frankfurt gings nun so in einem,
+ohne Aufenthalt, fort. Hans fragte auch wenig, folglich
+hatten wir Beide Gelegenheit gehabt, uns im Stillschweigen 
+zu üben, das hat aber auch seinen Nutzen, denn. man
+denkt desto mehr. Bei der Friedberger Warte aber konnte
+Hans Ehrlich doch nicht mehr an sich halten: denn als
 er das Chausseezeichen unter den Aufschlag am Ermel steckte,
-räufperre er sich und fing au: Lieber Herr! nehmen Sie
+räusperte er sich und fing an: Lieber Herr! nehmen Sie
 mir doch nicht übel! — missen Sie auch eine gute Herberge
-,iu Frankfurt?
+in Frankfurt?
 
 Ich. Nein, mein Freund! ich weiß da ganz und gar
 keinen Bescheid.
 
-Er. Ei! dao ist schlimm! — wie werden wir dann zu-
+Er. Ei! das ist schlimm! — wie werden wir dann zurecht 
+kommen?
 
-. recht kommen?
+Ich. Ei nun! ich denke, unser Herr Gott wird uns
+wohl ein gut Quartier bescheeren.
 
-- Ich. Ei nun! ich denke, unser Herr Gott wird uns
-. wohl ein gut Quartier befcheereu. .
-
-Er. Mit Erlanbniß, lieber Herr! da haben Sie nun
-wohl Nechtz aber mich dünkt doch so .in meiner Einfalt,
-wir hätten erst verständige.Lente fragen sollen, und werter
+Er. Mit Erlaubniß, lieber Herr! da haben Sie nun
+wohl Recht; aber mich dünkt doch so in meiner Einfalt,
+wir hätten erst verständige Leute fragen sollen, und wenn
 wir dann das unsrige gethan hätten, darnach hätten wird
-dann auf den lieben Gott kdunensanlommeu lassen. ·
+dann auf den lieben Gott können ankommen lassen.
 
-Ich. Han6! da hast du vollkommen Recht, mach’ du
-es dein ganzes Leben lang so-! mit mir ist’o eine ganz ei-
-gene Sache.
+Ich. Hans! da hast du vollkommen Recht, mach du
+es dein ganzes Leben lang so! mit mir ist’o eine ganz eigene 
+Sache.
 
-Er. Daß muß wohl frhn! denn bisher ist’ß mit uns
+Er. Daß muß wohl seyn! denn bisher ist’s mit uns
 eben nicht so nach dem Schlendrian gegangen. Aber noch
-eine, Herr! — die paar Thaler find alle, diesen Abend
+eins, Herr! — die paar Thaler sind alle, diesen Abend
 will ich Rechnung ablegen.
 
-Ich. Daß thut nichts.
+Ich. Das thut nichts.
 
