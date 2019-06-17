@@ -1,47 +1,52 @@
-»Ja
+<a name="76"></a>
 
-ten Ausruf von ibr: Herr Jesus! —- sie machte das Fen-
-ster zu, und im Augenblicke klopfte es heftig an meine Thüre.
-,,Herrin. «« —-
-Freudig bebend trat ein schöne-, vortrefflichen Weib, .non
-etwa dreißig Iahren, in mein Zimmer —- und der Ofsicier
+Ausruf von ihr: Herr Jesus! — sie machte das Fenster 
+zu, und im Augenblicke klopfte es heftig an meine Thüre.
+
+"Herein!" - 
+
+Freudig bebend trat ein schönes, vortrefflichen Weib, von
+etwa dreißig Jahren, in mein Zimmer — und der Officier
 hinter ihr drein.
 
-Sie. Engel Gottes! O
-Ich. Madame! — ich bemerke bebaunte Züge in Ihrem
-Augesichte. ’
+Sie. Engel Gottes! 
 
-T Er. Potz Element! der graue Mann!
-« Ich. Himmel! der Hefsische Kapitän! — und Sie?—
-,-Ei! um Gottes Willen, die Frau Geroldin!
-· Sie. Ebemals Frau Geroldin! ·-- nun das Weib
-dieses rechtschaffenen Manne-.
-Ietzt gings nun vollends durch einander: Umarmung,
-Dank, Befcheidenheit und Neugierde gankelten nnd schwärm-
-ten gerade so wie die Schwalben, wenn sie im Herbst von
+Ich. Madame! — ich bemerke bekaunte Züge in Ihrem
+Angesichte.
 
+Er. Potz Element! der graue Mann!
+
+Ich. Himmel! der Hessische Kapitän! — und Sie? —
+Ei! um Gottes Willen, die Frau Geroldin!
+
+Sie. Ehemals Frau Geroldin! - nun das Weib
+dieses rechtschaffenen Mannes.
+
+Jetzt gings nun vollends durch einander: Umarmung,
+Dank, Bescheidenheit und Neugierde gaukelten und schwärmten 
+gerade so wie die Schwalben, wenn sie im Herbst von
 einander Abschied nehmen.
 
-Wir speisten zusammen auf des Kapitcins Zimmer-.
-L Ich. Nun sagen Sie mir doch, wie haben Sie beide
+---
+
+Wir speisten zusammen auf des Kapitäns Zimmer.
+
+Ich. Nun sagen Sie mir doch, wie haben Sie beide
 sich gefunden?
 
-Er. .Alb der. graue Mann über den Amtmann Kriege-
-recht hielt,-fo hörte ich eine Frau Geroldin nennen, ich
-
-· schloß daran-, daß etwas Sonderbares hinter der Sache
-
-stecken müßte, ich konnte aber nichts erfahren, sossorgseiltig
+Er. Als der graue Mann über den Amtmann Kriegsrecht 
+hielt, so hörte ich eine Frau Geroldin nennen, ich
+schloß daraus, daß etwas Sonderbares hinter der Sache
+stecken müßte, ich konnte aber nichts erfahren, so sorgfältig
 ich mich auch erkundigte; ein Paar Tage darauf hörte ich
-nun die ganze Geschichtez nun bekam ich Beine, oder viel-
-mehr mein Gaul-, scngs war ich zu Reinheim. Da fah «
-ich nun all den Jammer-, auch erfuhr ich, daß ein-frem-
-der Jüngling —- (er stockte is- Thränen quellen die Wan-
-gen berunter) nun, Gott wirds Ihnen vergelten! mit dem
-Beding, daß ich Ihnen die hundert Earolinen wiedergebe-
+nun die ganze Geschichte; nun bekam ich Beine, oder vielmehr 
+mein Gaul, flugs war ich zu Reinheim. Da sah 
+ich nun all den Jammer, auch erfuhr ich, daß ein fremder 
+Jüngling — (er stockte - Thränen quollen die Wangen 
+herunter) nun, Gott wirds Ihnen vergelten! mit dem
+Beding, daß ich Ihnen die hundert Carolinen wiedergebe.
 
-Ich. Bei Leibe nicht!’ da käme bas Geld an den un-
-rechten .Mann : denn es wurde mit durch ,eine unbekannte
-
-Hand zugefchickt.
+Ich. Bei Leibe nicht! da käme bas Geld an den unrechten 
+Mann : denn es wurde mit durch eine unbekannte 
+Hand zugeschickt.
 
