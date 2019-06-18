@@ -23,6 +23,10 @@ function pagePdf()
     pandoc $md --latex-engine=xelatex pdf-meta.yaml -o out/$bmd.pdf
     echo "merging: $img out/$bmd.pdf"
     pdfunite $img out/$bmd.pdf  out/joined/translated-page-$no.pdf
+    
+    # cleanup single files    
+    rm $img
+    rm out/$bmd.pdf
 }
 
 function uniteChapter()
@@ -34,13 +38,15 @@ function uniteChapter()
     done
     pages=`ls -v out/joined/translated-page*.pdf`
     echo "book: $pages"
-    pdfunite $pages out/joined/translated-$container.pdf
+    pdfunite $pages out/$container.pdf
+    #cleanup single pages    
+    rm $pages
 }
 
 #pagePdf 0intro/schillingpage-016-018.pbm.txt.md
 
 #unite em all...
-#uniteChapter 0intro
+uniteChapter 0intro
 uniteChapter book1
 
 #pagePdf 0intro/schillingpage-016-018.pbm.txt.md
