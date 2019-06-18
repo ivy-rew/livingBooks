@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf out
+#rm -rf out
 mkdir out
 mkdir out/joined
 dir="$(pwd)"
@@ -49,7 +49,7 @@ function uniteChapter()
 uniteChapter 0intro
 uniteChapter book1
 
-#pagePdf 0intro/schillingpage-016-018.pbm.txt.md
+pdfunite out/0intro.pdf out/book1.pdf out/schilling-dasHeimweh.pdf
 
 
 
