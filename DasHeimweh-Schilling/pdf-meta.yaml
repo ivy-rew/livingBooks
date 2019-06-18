@@ -7,3 +7,4 @@ geometry:
 - bottom=10mm
 - right=10mm
 ---
+\pagenumbering{gobble}
