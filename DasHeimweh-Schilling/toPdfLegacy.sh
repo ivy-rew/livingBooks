@@ -20,7 +20,7 @@ function pagePdf()
     echo "img pdf: $img"
     pdfseparate -f $no -l $no ../johannheinrichj04grolgoog.pdf $img
     echo "ocr pdf: $md"
-    pandoc $md --latex-engine=xelatex -V geometry:a6paper -o out/$bmd.pdf
+    pandoc $md --latex-engine=xelatex pdf-meta.yaml -o out/$bmd.pdf
     echo "merging: $img out/$bmd.pdf"
     pdfunite $img out/$bmd.pdf  out/joined/translated-page-$no.pdf
 }
@@ -40,7 +40,8 @@ function uniteChapter()
 #pagePdf 0intro/schillingpage-016-018.pbm.txt.md
 
 #unite em all...
-uniteChapter 0intro
+#uniteChapter 0intro
+uniteChapter book1
 
 #pagePdf 0intro/schillingpage-016-018.pbm.txt.md
 

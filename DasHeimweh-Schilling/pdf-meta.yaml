@@ -1,0 +1,9 @@
+---
+fontsize: 11pt
+papersize: a5
+geometry:
+- top=10mm
+- left=10mm
+- bottom=10mm
+- right=10mm
+---
