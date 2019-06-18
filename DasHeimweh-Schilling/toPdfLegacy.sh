@@ -1,5 +1,5 @@
 #!/bin/bash
-#rm -rf out
+rm -rf out
 mkdir out
 mkdir out/joined
 dir="$(pwd)"
@@ -43,7 +43,7 @@ function uniteChapter()
     rm $pages
 }
 
-#pagePdf 0intro/schillingpage-016-018.pbm.txt.md
+#pagePdf book1/schillingpage-080-082.pbm.txt.md
 
 #unite em all...
 uniteChapter 0intro

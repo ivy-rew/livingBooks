@@ -1,3 +1,6 @@
+---
+fontsize: 10pt
+---
 <a name="43"></a>
 
 Freund! ich that zu Drudenheck nichts mehr, als was
