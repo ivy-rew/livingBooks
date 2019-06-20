@@ -13,7 +13,7 @@ function provideSources()
 }
 
 #provideSources
-pagesToPDF /0intro
-pagesToPDF /book1
+
+bookToPDF
 
 
