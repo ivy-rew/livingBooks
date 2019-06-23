@@ -13,6 +13,7 @@ function provideSources()
 }
 
 #provideSources
+source ~/booksAlive/pdfProdUtils.sh $dir
 
 bookToPDF
 
