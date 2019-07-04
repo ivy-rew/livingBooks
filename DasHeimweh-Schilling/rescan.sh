@@ -1,13 +1,14 @@
 #!/bin/bash
 
 page=$1
-img=page-$page.pbm
+img=page-$page.png
 lang=$2
 
-current=schillingpage-$page.pbm.txt.md
-text=out/schillingpage-$page.pbm
+current=text/1-ersterTeil/page-$1.md
+text=out/rescanpage-$page
 
-tesseract scanned/$img $text -l deu_frak$lang+deu_frak
+echo "rescanning pages/$img"
+tesseract pages/$img $text -l deu_frak$lang+deu_frak
 meld $current $text.txt
 
 read -p 'replace? (y/n)' -n 1 -r
