@@ -10,6 +10,12 @@ function provideSources()
         wget https://ia600206.us.archive.org/22/items/MuggeridgeMalcolmChroniclesOfWastedTime/Muggeridge%2C%20Malcolm%20-%20Chronicles%20of%20Wasted%20Time.pdf
         ln -s "Muggeridge, Malcolm - Chronicles of Wasted Time.pdf" $pdf
     fi
+    if [ ! -d "$DIR/pages" ]; then
+        extractPdfImages
+    fi
+    if [ ! -d "$DIR/text" ]; then
+        ocrFractured "eng"
+    fi
 }
 
 function transformMarkdown()
@@ -53,10 +59,7 @@ function kindle()
     ebook-convert "$bookdir/mug.epub" "$bookdir/mug.azw3"
 }
 
-#extractPdfImages
-#ocrFractured "eng"
+provideSources
 transformMarkdown
 epub
 kindle
-
-
