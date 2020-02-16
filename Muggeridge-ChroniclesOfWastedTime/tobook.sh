@@ -38,7 +38,7 @@ function transformMarkdown()
         target="$tdir/$text"
         cat $text \
           | sed ':a;N;$!ba;s/-\n//g' \
-          | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z ]+|[A-Z][A-Za-z ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
+          | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z’ ]+|[A-Z][A-Za-z’ ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
           >> "$target"
     done
     cd "$DIR"
