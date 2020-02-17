@@ -5,7 +5,7 @@ source ~/dev/booksAlive/bookUtils.sh . mug.pdf
 
 function provideSources()
 {
-    # https://openlibrary.org/books/OL20522092M/
+    # http://archive.org/details/MuggeridgeMalcolmChroniclesOfWastedTime
     if ! [ -f $pdf ]; then
         wget https://ia600206.us.archive.org/22/items/MuggeridgeMalcolmChroniclesOfWastedTime/Muggeridge%2C%20Malcolm%20-%20Chronicles%20of%20Wasted%20Time.pdf
         ln -s "Muggeridge, Malcolm - Chronicles of Wasted Time.pdf" $pdf
