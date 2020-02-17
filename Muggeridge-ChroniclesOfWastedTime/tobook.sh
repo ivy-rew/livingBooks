@@ -21,9 +21,9 @@ function provideSources()
 function transformMarkdown()
 {
     tdir="$DIR/trans"
-    rm -rf "$tdir"
+    rm -r -v "$tdir"
     mkdir -p "$tdir"
-    rm $bookfile
+    rm "$bookfile"
 
     cd "$textdir"
     for text in `ls -v */*.md`
@@ -32,15 +32,22 @@ function transformMarkdown()
 
         parent=$(dirname "$text")
         mkdir -p "$tdir/$parent"
+        target="$tdir/$text"
+
+        file=$(basename $text)
+        cleaned=$(find "$DIR/clean" -name "$file")
+        if ! [ -z "$cleaned" ]; then
+            text="$cleaned" #prefer local modified to generated
+        fi
 
         # sed1: remove hyphens at the end of the a line
         # sed2: mark titles with a 'pos' style
-        target="$tdir/$text"
         cat $text \
           | sed ':a;N;$!ba;s/-\n//g' \
           | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z’ ]+|[A-Z][A-Za-z’ ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
           >> "$target"
     done
+
     cd "$DIR"
 }
 
