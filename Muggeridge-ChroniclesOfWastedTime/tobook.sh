@@ -46,7 +46,7 @@ function transformMarkdown()
         cat $text \
           | sed ':a;N;$!ba;s/-\n//g' \
           | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z’ ]+|[A-Z][A-Za-z’ ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
-          | sed -E ':a;N;$!ba;s/([a-z])\n\n([a-z])/\1 \2/g' \
+          | sed -E ':a;N;$!ba;s/([a-z,])\n\n([a-z])/\1 \2/g' \
           >> "$target"
     done
 
