@@ -3,7 +3,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 bookUtils="$DIR/bookUtils.sh"
 if ! [ -f "$bookUtils" ]; then
-  curl -o "$bookUtils" "https://github.com/ivy-rew/booksAlive/raw/master/bookUtils.sh"
+  curl -L -o "$bookUtils" "https://github.com/ivy-rew/booksAlive/raw/master/bookUtils.sh"
 fi
 source "$bookUtils" . mug.pdf
 
