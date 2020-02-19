@@ -8,8 +8,6 @@ author:
 - 'Malcolm Muggeridge'
 lang: en
 format: ebook
-rights: 
-- 'opensource © [archive.org](http://archive.org/details/MuggeridgeMalcolmChroniclesOfWastedTime)'
-- '[fork-me-on-github](https://github.com/ivy-rew/booksAlive)'
 cover-image: pages/page-001-000.png
+rights: 'opensource © [archive.org](http://archive.org/details/MuggeridgeMalcolmChroniclesOfWastedTime) <br/> auto-generated book > [fork-me-on-github](https://github.com/ivy-rew/livingBooks)'
 ...
