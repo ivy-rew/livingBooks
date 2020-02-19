@@ -1,7 +1,11 @@
 #!/bin/bash
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-source ~/dev/booksAlive/bookUtils.sh . mug.pdf
+bookUtils="$DIR/bookUtils.sh"
+if ! [ -f "$bookUtils" ]; then
+  curl -o "$bookUtils" "https://github.com/ivy-rew/booksAlive/raw/master/bookUtils.sh"
+fi
+source "$bookUtils" . mug.pdf
 
 function provideSources()
 {
@@ -58,17 +62,12 @@ function epub()
     pandoc --epub-cover-image="$WORK/pages/page-001-000.png" \
      --epub-chapter-level=2 \
      --epub-stylesheet="$WORK/style.css" \
-     -f markdown -o "$bookdir/mug.epub" \
+     -f markdown -o "$bookdir/$bookName.epub" \
      "$WORK/meta.md" \
      $(ls -v trans/*/*.md)
-}
-
-function kindle()
-{
-    ebook-convert "$bookdir/mug.epub" "$bookdir/mug.azw3"
 }
 
 provideSources
 transformMarkdown
 epub
-kindle
+bookToKindle
