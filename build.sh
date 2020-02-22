@@ -29,39 +29,17 @@ function provideSources()
     fi
 }
 
-function transformMarkdown()
+function improveMd()
 {
-    tdir="$DIR/trans"
-    rm -r -v "$tdir"
-    mkdir -p "$tdir"
-    rm "$bookfile"
-
-    cd "$textdir"
-    for text in `ls -v *.md`
-    do
-        echo "processing "$text
-
-        parent=$(dirname "$text")
-        mkdir -p "$tdir/$parent"
-        target="$tdir/$text"
-
-        file=$(basename $text)
-        cleaned=$(find "$DIR/clean" -name "$file")
-        if ! [ -z "$cleaned" ]; then
-            text="$cleaned" #prefer local modified to generated
-        fi
-
-        # sed4: remove hyphens at the end of the a line
-        # sed5: mark titles with a 'pos' style
-        # sed6: remove section brakes by wrong detected white spaces
-        cat $text \
-          | sed ':a;N;$!ba;s/-\n//g' \
-          | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z’? ]+|[A-Z][A-Za-z’? ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
-          | sed -E ':a;N;$!ba;s/([a-z,])\n\n([a-z])/\1 \2/g' \
-          >> "$target"
-    done
-
-    cd "$DIR"
+    textIn="$1"
+    # sed1-3: fix frequent false positives from OCR
+    # sed4: remove hyphens at the end of the a line
+    # sed5: mark titles with a 'pos' style
+    # sed6: remove section brakes by wrong detected white spaces
+    cat "$textIn" \
+        | sed ':a;N;$!ba;s/-\n//g' \
+        | sed -E '0,/^([0-9]{1,3} [A-Z][A-Za-z’? ]+|[A-Z][A-Za-z’? ]+[0-9]{1,3}$)/s||<span class=\"pos\">\1</span>|' \
+        | sed -E ':a;N;$!ba;s/([a-z,])\n\n([a-z])/\1 \2/g'
 }
 
 function epub()
@@ -74,7 +52,9 @@ function epub()
      $(ls -v ./trans/*.md)
 }
 
-provideSources
-transformMarkdown
-epub
-bookToKindle
+if ! [ "$1" == "test" ]; then
+    provideSources
+    transformMarkdown
+    epub
+    bookToKindle
+fi
