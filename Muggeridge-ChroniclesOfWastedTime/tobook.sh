@@ -38,25 +38,10 @@ function improveMd()
         | sed -E ':a;N;$!ba;s/([a-z,])\n\n([a-z])/\1 \2/g'
 }
 
-function epub()
-{
-    MD_FIND='trans/*.md'
-    if [ ! -z "$1" ]; then
-        MD_FIND=$1
-    fi
-
-    pandoc --epub-cover-image="$WORK/pages/page-001-000.png" \
-     --epub-chapter-level=2 \
-     --epub-stylesheet="$WORK/style.css" \
-     -f markdown -o "$bookdir/$bookName.epub" \
-     "$WORK/meta.md" \
-     $(ls -v ${MD_FIND})
-}
-
 if ! [ "$1" == "test" ]; then
     provideSources
     transformMarkdown "*/*.md"
-    epub "trans/*/*.md"
+    bookToEPUB "trans/*/*.md"
     bookToKindle
 fi
 
